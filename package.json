@@ -1,0 +1,27 @@
+{
+  "name": "custom-angular-filters",
+  "version": "0.0.1",
+  "description": "a set of custom angular filters",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sunsette/angular-custom-filters"
+  },
+  "author": "Isabella Rodriguez",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Sunsette/angular-custom-filters/issues"
+  },
+  "devDependencies": {
+    "karma": "~0.12.21",
+    "karma-jasmine": "~0.1.5",
+    "karma-chrome-launcher": "~0.1.4"
+  }
+}

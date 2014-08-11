@@ -1,0 +1,23 @@
+{
+  "name": "custom-angular-filters",
+  "version": "0.0.1",
+  "authors": [
+    "sunsette <isabella.rodriguez@live.se>"
+  ],
+  "description": "a set of custom angular filters",
+  "main": "src/custom-angular-filters.js",
+  "license": "MIT",
+  "homepage": "https://github.com/Sunsette/angular-custom-filters",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples"
+  ],
+  "dependencies": {
+    "angular": "~1.2.21"
+  }
+}
